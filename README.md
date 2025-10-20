@@ -1,4 +1,3 @@
-# OS-Assignment-3
 README.template
 
 ## Project Number/Title 
